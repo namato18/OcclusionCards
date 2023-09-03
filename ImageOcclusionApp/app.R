@@ -1,6 +1,7 @@
 library(shiny)
 library(magick)
 library(tesseract)
+library(shinythemes)
 # Define UI for application
 ui <- fluidPage(
   sidebarLayout(
